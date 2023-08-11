@@ -122,9 +122,3 @@ Welcome to the Araadia Clothing Store project repository! This repository docume
 - Design the UI for displaying sales reports
 - Retrieve sales data from the database and display it
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/araadia-clothing-store.git
