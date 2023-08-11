@@ -122,3 +122,5 @@ Welcome to the Araadia Clothing Store project repository! This repository docume
 - Design the UI for displaying sales reports
 - Retrieve sales data from the database and display it
 
+### Prototyping
+
