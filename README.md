@@ -1,11 +1,10 @@
 # Araadia Clothing Store
 
-**Deliverable 2 | March 19, 2023**
 
 **Team Members:**
-- Maria Saeed Ahmed, 20I-0836
-- Areeba Sattar, 20I-0634
-- Saad Khan, 20I-1826
+- Maria Saeed Ahmed
+- Areeba Sattar
+- Saad Khan
 
 ## Overview
 
@@ -43,7 +42,7 @@ Welcome to the Araadia Clothing Store project repository! This repository docume
 
 ### Use Case Diagram
 
-![Use Case Diagram](use_case_diagram.png)
+![Use Case Diagram](use_case_diagram.PNG)
 
 ### Use Case Descriptions
 
